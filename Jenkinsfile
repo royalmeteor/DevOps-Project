@@ -29,4 +29,3 @@ post {
             echo 'Send status Failure to Mail, Telegram, Slack...'
         }
     }
-}
