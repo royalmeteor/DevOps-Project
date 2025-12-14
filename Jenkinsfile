@@ -12,9 +12,9 @@ pipeline {
                 echo 'Pre_Prod..'
             }
         }
-        stage('Deploy') {
+        stage('Test') {
             steps {
-                echo 'Deploying..'
+                echo 'Test..'
             }
         }
     }
